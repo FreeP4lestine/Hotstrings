@@ -1,0 +1,63 @@
+:*:btw::By the way
+:*:af::As far as I know
+:*:ig::I guess
+:*:itk::I think
+:*:inshh::I need some help here!
+:*:ih::I'm here!
+:*:gtg::I got to go!
+
+
+:*x:_GG_::
+    Sleep, 200
+    SendPlay, {Raw}================= 
+    SendPlay, {Enter 2}{Raw}  ####          ####
+    SendPlay, {Enter 2}{Raw} ##   ##       ##   ##
+    SendPlay, {Enter 2}{Raw} ##                ##
+    SendPlay, {Enter 2}{Raw} ##  ###     ##  ###
+    SendPlay, {Enter 2}{Raw} ##    ##      ##    ##
+    SendPlay, {Enter 2}{Raw}  ####          ####
+    SendPlay, {Enter 2}{Raw}=================
+    SendPlay, {Enter 1}
+Return
+
+:*x:_GL_::
+    Sleep, 200
+    SendPlay, {Raw}===================================
+    SendPlay, {Enter 2}{Raw}   #####      ##                   ##      ##     ######
+    SendPlay, {Enter 2}{Raw}  ##     ##     ##                   ##      ##     ##
+    SendPlay, {Enter 2}{Raw}  ##                ##                   ######     #####
+    SendPlay, {Enter 2}{Raw}  ##   ##       ##                   ##      ##     ##
+    SendPlay, {Enter 2}{Raw}  ##     ##     ##                   ##      ##     ##
+    SendPlay, {Enter 2}{Raw}   #####      ######       ##      ##     ##
+    SendPlay, {Enter 2}{Raw} ===================================
+    SendPlay, {Enter 1}
+Return
+
+:*x:_R_::
+    Sleep, 200
+    SendPlay, {Raw} !Please respect the next rules for a good game :
+    SendPlay, {Enter 2}{Raw} =============================
+    SendPlay, {Enter 1}{Raw} [ Try not to lag and not to Alt Tab the game ]
+    SendPlay, {Enter 1}{Raw} [ No Villager or Town Center wars ]
+    SendPlay, {Enter 1}{Raw} [ Respect other peoples who plays with you ]
+    SendPlay, {Enter 1}{Raw} [ If your team leaves don't keep playing
+    SendPlay, {Enter 1}{Raw}   (no one wants to waste his time) ]
+    SendPlay, {Enter 1}{Raw} [ If someone drops save the game ]
+    SendPlay, {Enter 1}
+Return
+
+:*x:_Hi_::
+    Sleep, 200
+    SendPlay, {Raw}===============
+    SendPlay, {Enter 1}{Raw}  ##        ##  ##   ##
+    SendPlay, {Enter 1}{Raw}  ##        ##  ##   ##
+    SendPlay, {Enter 1}{Raw}  #######  ##   ##
+    SendPlay, {Enter 1}{Raw}  #######  ##   ##
+    SendPlay, {Enter 1}{Raw}  ##        ##  ##   
+    SendPlay, {Enter 1}{Raw}  ##        ##  ##   ##
+    SendPlay, {Enter 1}{Raw}===============
+    SendPlay, {Enter 1}{Raw}  #Tahoma
+    SendPlay, {Enter 1}
+Return
+
+Esc::ExitApp
